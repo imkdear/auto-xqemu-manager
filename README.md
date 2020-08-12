@@ -1,2 +1,2 @@
 # auto-xqemu-manager
-automaticly build xqemu-mlanager
+automaticly build xqemu-manager
