@@ -7,4 +7,5 @@ pip install PyQt5 PyInstaller
 ~/.local/bin/pyinstaller --onefile  --windowed --name xqemu-manager main.py
 cp *.ui dist/
 cd dist
+sudo apt install libxcb-xinerama0
 ./xqemu-manager
